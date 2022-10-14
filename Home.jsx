@@ -1,3 +1,10 @@
+/*
+npm i @tanstack/react-query
+or
+npm i react-query
+
+npm i axios
+*/
 import { useQuery } from "@tanstack/react-query";
 import Axios from "axios";
 
